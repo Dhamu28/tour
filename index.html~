@@ -102,21 +102,17 @@
                     <a class="pull-left" href="#"><img class="media-boject" src="http://www.india-tourism.net/images/homenorth_india.jpg" alt="north Zone"></a>
                     <div class="media-body">                   
                         <h4 class="media-heading">North Zone</h4>
-                        <div Class="hidden-xs">
                     <p><b>Location:</b> Above the Tropic of Cancer<br><b>Major Cities:</b> Delhi, Jaipur, Lucknow, Shimla<br/><b>Holy Destinations:</b> Haridwar, Varanasi, Badrinath, Amritsar, Ajmer<br><b>Adventure Destinations:</b> Ladakh, Thar Desert in Rajasthan, Himalayas </p>
-                        </div><!--hidden content-->
                     </div><!--media body-->
                 </div><!--media-->
                <div class="media"> 
                     <a class="pull-left" href="#"><img class="media-boject" src="http://www.india-tourism.net/images/homesouth_india.jpg" alt="south Zone"></a>
                     <div class="media-body">                   
                         <h4 class="media-heading">South Zone</h4>
-                        <div Class="hidden-xs">
                         <p><b>Location:</b> Below the Vindhya Range<br>
                             <b>Major Cities:</b> Chennai, Hyderabad, Bangalore, Cochin, Pondicherry<br>
                             <b>Holy Destinations:</b> Rameshwaram, Sabarimala, Thiruvananthapuram<br>
                             <b>Holiday Destinations:</b> Alappuzha Backwaters, Southern Beaches, Lakshadweep</p>
-                        </div><!--hidden content-->
                     </div><!--media body-->
                 </div><!--media-->
         </div><!--columns-->
@@ -125,91 +121,25 @@
                     <a class="pull-left" href="#"><img class="media-boject" src="http://www.india-tourism.net/images/homeeast_india.jpg" alt="east Zone"></a>
                     <div class="media-body">                   
                         <h4 class="media-heading">East Zone</h4>
-                        <div class="hidden-xs">
                         <p><b>Location:</b> To the east of Son and Kosi rivers<br>
                         <b>Major Cities:</b> Patna, Kolkata, Aizwal, Shillong<br>
                         <b>Famous For:</b> Tribal Culture, One-horned Rhino, Puri Rath Yatra, Tea Gardens<br>
                         <b>Holiday Destinations:</b> Sundarbans, Sarnath, Darjeeling, Kazirnaga </p>
-                        </div><!--hidden-xs-->
                     </div><!--media body-->
                 </div><!--media-->
                <div class="media"> 
                     <a class="pull-left" href="#"><img class="media-boject" src="http://www.india-tourism.net/images/homewest_india.jpg" alt="west Zone"></a>
                     <div class="media-body">                   
                         <h4 class="media-heading">West Zone</h4>
-                             <div class="hidden-xs"> <p><b>Location:</b> Across the Thar Desert<br>
+                            <p class="hidden-xs"><b>Location:</b> Across the Thar Desert<br>
                             <b>Major Cities:</b> Mumbai, Panjim, Pune, Ahmedabad, Nashik, Khajuraho<br>
                             <b>Heritage Destinations:</b> Daman & Diu, Patan, Mahabaleshwar<br>
                             <b>Holiday Destinations:</b> Goa Beaches, Ajanta & Ellora Caves, Khajuraho Temples<p>
-                            </div><!--hidden content-->
                     </div><!--media body-->
                 </div><!--media-->
         </div><!--columns-->
 </div><!--container for content-->
-
-<div class="container">
 <hr/>
-    <div class="col-xs-3 col-sm-3 col-md-3">
-    <h2>North India</h2>
-        <div class="hidden-xs">
-        <ul>
-            <li>Delhi</li>
-            <li>Haryana</li>
-            <li>Himachal Pardesh</li>
-            <li>Jammu & Kashmir</li>
-            <li>Punjab</li>
-            <li>Rajasthan</li>
-            <li>Uttranchal</li>
-            <li>Utter Pradesh</li>
-        </ul>
-        </div>
-    </div><!--columns-->
-    <div class="col-xs-3 col-sm-3 col-md-3">
-    <h2>South India</h2>
-        <div class="hidden-xs">
-        <ul>
-            <li>Andra Pradesh</li>
-            <li>Lakshyadeep</li>
-            <li>Karnattka</li>
-            <li>Kerala</li>
-            <li>Tamilnadu</li>
-        </ul>
-        </div>
-    </div><!--columns-->
-    <div class="col-xs-3 col-sm-3 col-md-3">
-    <h2>West India</h2>
-        <div class="hidden-xs">
-        <ul>
-            <li>Daman & Diu</li>
-            <li>Gujrat</li>
-            <li>Goa</li>
-            <li>Madhyapradesh</li>
-            <li>Maharastra</li>
-        </ul>
-        </div>
-    </div><!--columns-->
-    <div class="col-xs-3 col-sm-3 col-md-3">
-    <h2>Eest India</h2>
-        <div class="hidden-xs">
-        <ul>
-            <li>Andaman & Nikobar</li>
-            <li>Arunchal Pradesh</li>
-            <li>Aasam</li>
-            <li>Bihar</li>
-            <li>Chatishgarh</li>
-            <li>Jharkhand</li>
-            <li>Manipur</li>
-            <li>Meghalya</li>
-            <li>Mizoram</li>
-            <li>Nagaland</li>
-            <li>Orissa</li>
-            <li>Sikkim</li>
-            <li>Tripura</li>
-            <li>West Bangal</li>
-        </ul>
-        </div>
-    </div><!--columns-->
-</div><!--container-->
 </body>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
