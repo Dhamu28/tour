@@ -20,6 +20,9 @@ background-image: -webkit-linear-gradient(top, #f0b7a1 0%, #752201 51%, #bf6e4e 
 /* W3C Markup */ 
 background-image: linear-gradient(to bottom, #f0b7a1 0%, #752201 51%, #bf6e4e 100%);
 }
+a {
+color: inherit;
+}   
 #top_space{
 padding-top:10px;
 }   
